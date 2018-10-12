@@ -1,3 +1,2 @@
-# Starter Pack for week 6
-
-Starter pack for challenge 11
+# starter-pack-challenge-5
+Use this code to start with challenge 5, after finishing peer assessment of week 2.
